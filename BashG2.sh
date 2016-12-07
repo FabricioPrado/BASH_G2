@@ -9,8 +9,8 @@
 principal() {           # Função principal do programa
     clear               # limpa a tela
 
-    echo "[1] SINCRONIZAR OS DADOS UTILIZANDO RSYNC"  # imprime na tela as opções que serão
-    echo "[2] SOBRESCREVER OS DADOS UTILIZANDO SCP"  # abordadas no comando case
+    echo "[1] SINCRONIZAR OS DADOS UTILIZANDO RSYNC"  # RSYNC
+    echo "[2] SOBRESCREVER OS DADOS UTILIZANDO SCP"  # SCP
     echo "[3] Sair"
     echo ""
     echo -n "Qual a opcao desejada ? "
